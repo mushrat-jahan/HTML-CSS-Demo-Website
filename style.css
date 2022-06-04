@@ -1,0 +1,202 @@
+*,body{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+.banner{margin: 0px;}
+
+.banner img {
+    width: 1000px;
+}
+
+.menu {
+background-color: rgb(35, 108, 137);
+overflow: hidden;
+padding: 10px;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    list-style: none;
+    float: left
+}
+
+.menu ul li a {
+    padding: 10px;
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+
+.menu ul li:hover{
+    background-color: green;
+}
+ .content-top h1 {
+     text-align: center;
+     margin-top: 20px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 300;
+     font-size: 50px;
+ }
+
+ .content-top p {
+     font-size: 16px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     margin: 20px 20px 30px 20px;
+     text-align: justify;
+ }
+ .content-bottom {
+    width: 1000px;
+    height: 500px;
+    background: rgb(252, 249, 249);
+ }
+ .content-bottom-left img {
+     width: 500px;
+     height: 500px;
+     float: left;
+ }
+
+ .content-bottom-right h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 50px;
+ }
+ .content-bottom-right p{
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 20px 30px 20px;
+    text-align: justify;
+ }
+
+ .middle {
+     width: 1000px;
+     height: 400px;
+ }
+ .middle-left-left{
+     width: 250px;
+     height: 400px;
+     background: rgb(29, 83, 83);
+     float: left;
+ }
+.middle-left-left img {
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px 10px 100px;
+}
+.middle-left-left h3{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: white;
+}
+.middle-left-left p {
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 20px 30px 20px;
+    color: white;
+    text-align: justify;
+}
+.middle-left-right{
+    width: 250px;
+    height: 400px;
+    background: rgb(60, 135, 165);
+    float: left;
+}
+.middle-left-right img {
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px 10px 100px;
+}
+.middle-left-right h3{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: white;
+}
+.middle-left-right p {
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 20px 30px 20px;
+    color: white;
+    text-align: justify;
+}
+
+.middle-right-left {
+    width: 250px;
+     height: 400px;
+     background: rgb(29, 83, 83);
+     float: left;
+}
+.middle-right-left img {
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px 10px 100px;
+}
+.middle-right-left h3 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: white;
+}
+.middle-right-left p {
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 20px 30px 20px;
+    color: white;
+    text-align: justify;
+}
+.middle-right-right {
+    width: 250px;
+    height: 400px;
+    background: rgb(60, 135, 165);
+    float: left;
+}
+.middle-right-right img {
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px 10px 100px; 
+}
+.middle-right-right h3 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: white;
+}
+.middle-right-right p {
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 20px 30px 20px;
+    color: white;
+    text-align: justify;
+}
+
+.footer {
+    background-color: rgb(35, 108, 137);
+    color: white;
+    padding: 10px;
+}
+
+.footer p {
+    text-align: center;
+}
